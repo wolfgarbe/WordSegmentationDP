@@ -1,5 +1,5 @@
 # WordSegmentationDP
-Fast Word Segmentation using a Dynamic Programming approach.
+Word Segmentation using a Dynamic Programming approach.
 
 For a faster Word Segmentation using a Triangular Matrix approach have a look at [WordSegmentationTM](https://github.com/wolfgarbe/WordSegmentationTM).
 
