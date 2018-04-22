@@ -28,10 +28,9 @@ For a Word Segmentation with Spelling Correction use WordSegmentation and Lookup
 * Automatic CamelCasing of programming variables.
 
 #### Performance 
-
+<br>
 #### Blog Posts: Algorithm, Benchmarks, Applications
 [Fast Word Segmentation for noisy text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)<br>
-
 <br>
 
 #### Usage of WordSegmentationDP Library
