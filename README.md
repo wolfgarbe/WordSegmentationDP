@@ -35,6 +35,7 @@ For a Word Segmentation with Spelling Correction use WordSegmentation and Lookup
 <br>
 
 #### Usage of WordSegmentationDP Library
+<br>
 
 #### How to use WordSegmentationDP in your project:
 
