@@ -80,4 +80,6 @@ Languages with non-latin characters are supported, e.g Cyrillic, Chinese or [Geo
 
 #### Changes
 
+---
 
+**WordSegmentationDP** is contributed by [**SeekStorm** - the high performance Search as a Service & search API](https://seekstorm.com)
